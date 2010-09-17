@@ -36,3 +36,8 @@ end
 # group :development, :test do
 #   gem 'webrat'
 # end
+
+#gem 'rspec-rails', '>= 2.0.0.beta.7'
+gem 'autotest-rails-pure'
+gem 'autotest'
+gem 'autotest-notification'
